@@ -6,7 +6,7 @@ export type ContractInfo = {
 }
 
 export const scamToken: ContractInfo = {
-	address: '0xdb78fcbb4f1693fdbf7a85e970946e4ce466e2a9',
+	address: '0x01C65F22A9478C2932e62483509c233F0aaD5c72',
 	abi: [{
 		"constant": true,
 		"inputs": [],
